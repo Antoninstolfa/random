@@ -1,0 +1,10 @@
+G:\PRG\C#\random\random\bin\Debug\random.exe.config
+G:\PRG\C#\random\random\bin\Debug\random.exe
+G:\PRG\C#\random\random\bin\Debug\random.pdb
+G:\PRG\C#\random\random\obj\Debug\random.csproj.AssemblyReference.cache
+G:\PRG\C#\random\random\obj\Debug\random.Form1.resources
+G:\PRG\C#\random\random\obj\Debug\random.Properties.Resources.resources
+G:\PRG\C#\random\random\obj\Debug\random.csproj.GenerateResource.cache
+G:\PRG\C#\random\random\obj\Debug\random.csproj.CoreCompileInputs.cache
+G:\PRG\C#\random\random\obj\Debug\random.exe
+G:\PRG\C#\random\random\obj\Debug\random.pdb
